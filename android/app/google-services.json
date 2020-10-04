@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "610015076141",
+    "firebase_url": "https://malipark-fae42.firebaseio.com",
+    "project_id": "malipark-fae42",
+    "storage_bucket": "malipark-fae42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610015076141:android:077d44b74d6ddbd928bda4",
+        "android_client_info": {
+          "package_name": "com.application.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610015076141-5nt256kdsf2v0r3kos8relebl8486nch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS6dD_8bVtoxzJgEoFU99QDnJvwc40J_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610015076141-5nt256kdsf2v0r3kos8relebl8486nch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
